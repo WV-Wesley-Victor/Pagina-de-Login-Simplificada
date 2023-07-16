@@ -1,0 +1,2 @@
+# Pagina de Login Simplificada
+ Este é um repositório no GitHub que contém uma página de login simplificada, projetada para fornecer uma experiência de autenticação fácil e intuitiva para os usuários. A página de login foi criada utilizando HTML e CSS, e possui um design moderno e responsivo. O código-fonte está disponível neste repositório, permitindo que você estude, customize e implemente a página de login em seus próprios projetos web. Faça uso desse repositório para acelerar o desenvolvimento de sistemas de login seguros e eficientes!
