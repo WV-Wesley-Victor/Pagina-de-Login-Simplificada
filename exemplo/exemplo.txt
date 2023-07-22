@@ -1,0 +1,33 @@
+Este código é uma página HTML com um formulário de login estilizado usando CSS. Vamos explicar o código passo a passo:
+
+- O código inicia com a declaração <!DOCTYPE html> para definir o tipo de documento HTML5.
+
+- Em seguida, a tag <html lang="pt-br"> é usada para definir o idioma da página como português do Brasil.
+
+- A seção <head> contém metadados sobre o documento, como a codificação de caracteres, a largura da tela e o autor da página.
+
+- O arquivo CSS externo é importado através da linha <link rel="stylesheet" href="style.css">. Esse arquivo contém os estilos que serão aplicados aos elementos da página.
+
+- O título da página é definido dentro da tag <title> como "Login".
+
+- O corpo da página começa com a tag <body>, onde todo o conteúdo visível da página é colocado.
+
+- A estrutura do layout consiste em duas partes principais divididas em duas colunas usando a classe "main-login".
+
+- A primeira coluna (classe "left-login") contém um título "Faça login e entre para o nosso time" e uma imagem animada.
+
+- A segunda coluna (classe "right-login") contém um formulário de login estilizado com um cartão de fundo.
+
+- O cartão de login (classe "card-login") contém um título "LOGIN" e dois campos de texto para o usuário e senha. Há também um botão "Login".
+
+- Os campos de texto são estilizados com a classe "textfield", que possui rótulos (labels) e inputs de texto.
+
+- A página utiliza a fonte "Noto Sans" do Google Fonts, especificada no arquivo CSS, para aplicar a tipografia.
+
+- O CSS define a aparência e o layout de todos os elementos na página. Além disso, o código inclui algumas regras de mídia (media queries) para tornar o layout responsivo, adaptando-se a diferentes tamanhos de tela.
+
+- O CSS define cores de fundo, cores de texto, tamanhos de fonte, sombras, bordas arredondadas, etc., para criar um visual agradável e coeso para a página de login.
+
+- As regras de mídia (media queries) ajustam o tamanho do cartão de login e ocultam o título da coluna esquerda em telas menores, tornando a página mais amigável para dispositivos móveis.
+
+Resumindo, esse código HTML e CSS cria uma página de login responsiva com duas colunas, estilizada com cores e tipografia específicas. Essa página é destinada a fazer parte de um sistema de login maior, onde os usuários poderiam inserir seu nome de usuário e senha para acessar algum serviço ou sistema protegido.
