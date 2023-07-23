@@ -1,6 +1,7 @@
 # Pagina de Login Simplificada
  Este é um repositório no GitHub que contém uma página de login simplificada, projetada para fornecer uma experiência de autenticação fácil e intuitiva para os usuários. A página de login foi criada utilizando HTML e CSS, e possui um design moderno e responsivo. O código-fonte está disponível neste repositório, permitindo que você estude, customize e implemente a página de login em seus próprios projetos web. Faça uso desse repositório para acelerar o desenvolvimento de sistemas de login seguros e eficientes.
-![Meu projeto](https://github.com/WV-Wesley-Victor/Pagina-de-Login-Simplificada/assets/137107062/09ac5bef-be57-485d-bdc6-8eaffb72193b)
+ 
+ ![Captura de Tela (18)](https://github.com/WV-Wesley-Victor/Pagina-de-Login-Simplificada/assets/137107062/244f8d05-6c3d-44dc-b5a2-d96e4a97f68b)
  <p align="center">
   <a href="https://wv-wesley-victor.github.io/Pagina-de-Login-Simplificada/" target="_blank">Clique aqui para visitar o projeto</a>
 </p>
