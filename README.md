@@ -14,6 +14,16 @@ A autenticação é uma parte crucial de muitos sistemas web, e esta página de 
 * Interface intuitiva: O formulário de login possui campos simples e claros, facilitando a inserção de dados de autenticação.
 * Personalização fácil: O código-fonte está disponível neste repositório, permitindo que você estude, customize e implemente a página de login em seus próprios projetos web.
 
+## Fontes de Pesquisa
+* W3Schools: Um recurso popular para aprender desenvolvimento web, o W3Schools oferece tutoriais e exemplos de código para criar formulários de login: https://www.w3schools.com/howto/howto_css_login_form.asp
+* MDN Web Docs: Mantido pela Mozilla, o MDN fornece documentação detalhada sobre HTML, CSS e JavaScript, incluindo exemplos de formulários de login: https://developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form
+* Codecademy: Oferece cursos interativos de desenvolvimento web, incluindo como criar formulários de login: https://www.codecademy.com/learn/learn-html-forms
+* Stack Overflow: Um fórum de perguntas e respostas para desenvolvedores, onde você pode encontrar soluções para problemas específicos ao criar uma página de login: https://stackoverflow.com/
+* GitHub: Procure por repositórios públicos que contenham exemplos de páginas de login. Isso pode oferecer insights sobre as melhores práticas e estruturas de código: https://github.com/
+* YouTube: Existem muitos tutoriais em vídeo sobre como criar páginas de login simplificadas. Pesquise por "simple login page tutorial" para encontrar vídeos relevantes.
+* Design de Interface do Usuário (UI): Sites como o Behance (https://www.behance.net/) e o Dribbble (https://dribbble.com/) podem inspirar você em termos de design de interfaces de login.
+* Frameworks e Bibliotecas: Se você estiver interessado em usar frameworks ou bibliotecas para acelerar o desenvolvimento, pode explorar o Bootstrap (https://getbootstrap.com/) ou o Materialize (https://materializecss.com/) para criar páginas de login responsivas.
+
 ## Instalação
 Para utilizar a pagina de login simplificada em seu projeto, siga as etapas abaixo:
 
